@@ -14,10 +14,13 @@ Please consider citing our paper. 👇👇👇
 
 
 ```
-@article{li2023soybeannet,
-  title={SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images},
+@article{li2024soybeannet,
+  title={SoybeanNet: Transformer-based convolutional neural network for soybean pod counting from Unmanned Aerial Vehicle (UAV) images},
   author={Li, Jiajia and Magar, Raju Thada and Chen, Dong and Lin, Feng and Wang, Dechun and Yin, Xiang and Zhuang, Weichao and Li, Zhaojian},
-  journal={arXiv preprint arXiv:2310.10861},
-  year={2023}
+  journal={Computers and Electronics in Agriculture},
+  volume={220},
+  pages={108861},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
